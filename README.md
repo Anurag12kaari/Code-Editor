@@ -1,4 +1,4 @@
-# **Collaborative Code Editor**  
+# **Collaborative Code Editor : Codesync**  
 *Your Playground for Real-Time Code Collaboration*
 
 ## 🚀 What is this?  
